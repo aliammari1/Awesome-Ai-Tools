@@ -1,2 +1,9 @@
 # Awesome-Ai-Tools
-Awesome Ai tools
+
+This repo contains Ai tools that will help you achieve your goals
+
+## Contents
+
+- [Productivity](#productivity)
+
+## Productivity
