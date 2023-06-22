@@ -11,4 +11,6 @@ This repo contains Ai tools that will help you achieve your goals
 
 ## Productivity
 
+- [monica](https://monica.im/) - Monica is a chrome extension powered by ChatGPT API. It is designed to be your personal AI assistant for effortless chatting and copywriting.
+
 ## Creativity
