@@ -154,6 +154,8 @@ If you're looking for AI tools that don't fit into any of the above categories, 
 ### Language Models
 
 - [GPT-3](https://openai.com/blog/openai-api/) - GPT-3 is an AI-powered language model developed by OpenAI. It can generate human-like text, answer questions, and even write code.
+- [BERT](https://huggingface.co/blog/bert-101) - BERT is a language model developed by Google AI. It is trained on a massive dataset of text and code, and can be used for a variety of tasks, including natural language understanding, question answering, and text classification.
+- [LLama 2](https://ai.meta.com/resources/models-and-libraries/llama/) - LLama 2 models are a collection of pretrained and fine-tuned large language models developed and released by Meta AI . These models are built upon the success of LLama 1 and provide significant improvements, including a larger scale and more extensive context.
 
 ### Generative Models
 
