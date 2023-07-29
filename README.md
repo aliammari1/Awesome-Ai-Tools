@@ -98,6 +98,7 @@ If you're working with data, there are a number of AI tools that can help you an
 - [DataRobot](https://www.datarobot.com/) - DataRobot is an AI-powered platform that helps you build and deploy machine learning models. It can help you automate the process of building models and make predictions based on your data.
 - [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open-source machine learning framework developed by Google. It can help you build and train machine learning models for a variety of applications.
 - [PyTorch](https://pytorch.org/) - PyTorch is another open-source machine learning framework that is popular among researchers and developers. It is known for its ease of use and flexibility.
+- [PyTorch3d](https://pytorch3d.org/) - Pytorch 3d is an open-source library for deep learning with 3d data.
 
 ### Data Analysis
 
