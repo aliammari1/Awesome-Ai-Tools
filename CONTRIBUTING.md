@@ -19,18 +19,19 @@ You can contribute to repo in various ways:
 ## How to Contribute
 
 To contribute to this repo, follow these simple steps:
+1. Give a star to this repository.
 
-1. Fork the repository to your GitHub account.
+2. Fork the repository to your GitHub account.
 
-2. Create a new branch for your changes.
+3. Create a new branch for your changes.
 
-3. Make your contributions, whether it's code changes, documentation updates, etc.
+4. Make your contributions, whether it's code changes, documentation updates, etc.
 
-4. Commit your changes with clear and concise messages.
+5. Commit your changes with clear and concise messages.
 
-5. Push your branch to your forked repository.
+6. Push your branch to your forked repository.
 
-6. Submit a pull request, and our team will review it as soon as possible.
+7. Submit a pull request, and our team will review it as soon as possible.
 
 ## No Contribution is Too Small
 
