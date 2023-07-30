@@ -43,14 +43,19 @@ If you're looking to boost your productivity, there are a number of AI tools tha
 
 - [RescueTime](https://www.rescuetime.com/) - RescueTime is an AI-powered time tracking tool that helps you understand how you're spending your time on your computer. It can help you identify areas where you're wasting time and make adjustments to your workflow to be more productive.
 - [Focus@Will](https://www.focusatwill.com/) - Focus@Will is an AI-powered music service that helps you stay focused and productive while you work. It uses neuroscience to create music that is scientifically optimized to help you concentrate.
-
+- [Clockify](https://clockify.me) - Clockify is an AI-powered time tracking tool that helps you track your time across different projects and tasks. It can help you identify areas where you're spending too much time and make adjustments to your workflow to be more productive.
+- [Trello](https://trello.com) - Trello is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
 ### Task Management
 
 - [Todoist](https://todoist.com/) - Todoist is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even suggest tasks based on your previous activity.
+- [Asana](https://asana.com) - Asana is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
+- [Notion](https://www.notion.so) - Notion is an AI-powered productivity tool that can help you manage tasks, take notes, and collaborate with others on projects. It can also be used to create wikis, databases, and other types of content.
 
 ### Email Management
 
 - [Boomerang](https://www.boomeranggmail.com/) - Boomerang is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you schedule emails to be sent later, remind you to follow up on emails, and even suggest responses to emails.
+- [SaneBox](https://www.sanebox.com) - SaneBox is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you prioritize emails, unsubscribe from unwanted emails, and even snooze emails to be dealt with later.
+- [Mailstrom](https://mailstrom.co) - Mailstrom is an AI-powered email management tool that helps you clean up your inbox. It can help you quickly identify and delete unwanted emails, and even unsubscribe from newsletters and other types of email subscriptions. ▌
 
 ## Creativity
 
