@@ -55,7 +55,7 @@ If you're looking to boost your productivity, there are a number of AI tools tha
 
 - [Boomerang](https://www.boomeranggmail.com/) - Boomerang is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you schedule emails to be sent later, remind you to follow up on emails, and even suggest responses to emails.
 - [SaneBox](https://www.sanebox.com) - SaneBox is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you prioritize emails, unsubscribe from unwanted emails, and even snooze emails to be dealt with later.
-- [Mailstrom](https://mailstrom.co) - Mailstrom is an AI-powered email management tool that helps you clean up your inbox. It can help you quickly identify and delete unwanted emails, and even unsubscribe from newsletters and other types of email subscriptions. ▌
+- [Mailstrom](https://mailstrom.co) - Mailstrom is an AI-powered email management tool that helps you clean up your inbox. It can help you quickly identify and delete unwanted emails, and even unsubscribe from newsletters and other types of email subscriptions.
 
 ## Creativity
 
