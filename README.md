@@ -45,6 +45,7 @@ If you're looking to boost your productivity, there are a number of AI tools tha
 - [Focus@Will](https://www.focusatwill.com/) - Focus@Will is an AI-powered music service that helps you stay focused and productive while you work. It uses neuroscience to create music that is scientifically optimized to help you concentrate.
 - [Clockify](https://clockify.me) - Clockify is an AI-powered time tracking tool that helps you track your time across different projects and tasks. It can help you identify areas where you're spending too much time and make adjustments to your workflow to be more productive.
 - [Trello](https://trello.com) - Trello is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
+
 ### Task Management
 
 - [Todoist](https://todoist.com/) - Todoist is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even suggest tasks based on your previous activity.
@@ -65,6 +66,7 @@ If you're looking to get more creative, there are a number of AI tools that can 
 
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is an AI-powered tool that allows you to create unique digital art by combining different images and styles.
 - [Runway ML](https://runwayml.com/) - Runway is an AI-powered tool that allows users to edit and generate videos using natural language descriptions.
+- [Prisma](https://prisma-ai.com/) - Prisma is an AI-powered tool that allows you to transform your photos into works of art using neural networks.
 
 ### Music
 
