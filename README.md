@@ -52,6 +52,8 @@ If you're looking to boost your productivity, there are a number of AI tools tha
 - [Asana](https://asana.com) - Asana is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
 - [Notion](https://www.notion.so) - Notion is an AI-powered productivity tool that can help you manage tasks, take notes, and collaborate with others on projects. It can also be used to create wikis, databases, and other types of content.
 
+- [Taskade](https://taskade.com) - Taskade is an AI-powered productivity tool that can manage tasks and notes for individuals and teams. 
+
 ### Email Management
 
 - [Boomerang](https://www.boomeranggmail.com/) - Boomerang is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you schedule emails to be sent later, remind you to follow up on emails, and even suggest responses to emails.
