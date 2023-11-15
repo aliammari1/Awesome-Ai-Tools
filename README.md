@@ -73,7 +73,6 @@ If you're looking to get more creative, there are a number of AI tools that can 
 ### Music
 
 - [AIVA](https://www.aiva.ai/) - AIVA is an AI-powered music composition tool that can help you create original music for your projects.
-- [Amper Music](https://www.ampermusic.com/) - Amper Music is an AI-powered music creation platform that allows you to create custom music for your videos, podcasts, and other projects.
 
 ### Writing
 
