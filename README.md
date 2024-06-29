@@ -164,7 +164,6 @@ If you're interested in robotics, there are a number of AI tools that can help y
 ### Robot Control
 
 - [ROS](https://www.ros.org/) - ROS (Robot Operating System) is an open-source framework for building robotics software. It can help you build and control robots using a variety of programming languages.
-- [Robotics Operating System 2 (ROS 2)](https://index.ros.org/doc/ros2/) - ROS 2 is the next generation of ROS, designed to be more modular, scalable, and secure than its predecessor.
 
 ## Miscellaneous
 
