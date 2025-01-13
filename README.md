@@ -45,14 +45,17 @@ If you're looking to boost your productivity, there are a number of AI tools tha
 - [Focus@Will](https://www.focusatwill.com/) - Focus@Will is an AI-powered music service that helps you stay focused and productive while you work. It uses neuroscience to create music that is scientifically optimized to help you concentrate.
 - [Clockify](https://clockify.me) - Clockify is an AI-powered time tracking tool that helps you track your time across different projects and tasks. It can help you identify areas where you're spending too much time and make adjustments to your workflow to be more productive.
 - [Trello](https://trello.com) - Trello is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
+- [Motion](https://www.usemotion.com/) - Motion is an AI-powered calendar and task management tool that automatically schedules your tasks and meetings for optimal productivity.
+- [Reclaim.ai](https://reclaim.ai/) - Reclaim is an intelligent calendar assistant that helps you protect your time by automatically scheduling meetings and tasks.
 
 ### Task Management
 
 - [Todoist](https://todoist.com/) - Todoist is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even suggest tasks based on your previous activity.
 - [Asana](https://asana.com) - Asana is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
 - [Notion](https://www.notion.so) - Notion is an AI-powered productivity tool that can help you manage tasks, take notes, and collaborate with others on projects. It can also be used to create wikis, databases, and other types of content.
-
-- [Taskade](https://taskade.com) - Taskade is an AI-powered productivity tool that can manage tasks and notes for individuals and teams. 
+- [Taskade](https://taskade.com) - Taskade is an AI-powered productivity tool that can manage tasks and notes for individuals and teams.
+- [ClickUp](https://clickup.com/) - ClickUp is an AI-enhanced project management tool that helps teams organize work with automated task distributions and smart notifications.
+- [Monday.com](https://monday.com/) - Monday.com uses AI to streamline workflow management and automate routine tasks.
 
 ### Email Management
 
@@ -79,6 +82,8 @@ If you're looking to get more creative, there are a number of AI tools that can 
 - [monica](https://monica.im/) - Monica is a chrome extension powered by ChatGPT API. It is designed to be your personal AI assistant for effortless chatting and copywriting.
 - [CopyAI](https://www.copy.ai/) - CopyAI is an AI-powered writing assistant that can help you generate high-quality marketing copy, product descriptions, and more.
 - [Grammarly](https://www.grammarly.com/) - Grammarly is an AI-powered writing assistant that helps you catch grammar and spelling errors in your writing. It can also suggest improvements to your writing style to help you communicate more effectively.
+- [Jasper](https://www.jasper.ai/) - Jasper is an AI writing assistant that helps create marketing copy, blog posts, and social media content.
+- [Rytr](https://rytr.me/) - Rytr is an AI writing tool that helps generate content in different tones and styles.
 
 ## Communication
 
@@ -110,6 +115,8 @@ If you're working with data, there are a number of AI tools that can help you an
 - [PyTorch](https://pytorch.org/) - PyTorch is another open-source machine learning framework that is popular among researchers and developers. It is known for its ease of use and flexibility.
 - [H2O.ai](https://www.h2o.ai/) - H2O.ai is an open-source machine learning platform that allows you to build and deploy machine learning models at scale.
 - [PyTorch3d](https://pytorch3d.org/) - Pytorch 3d is an open-source library for deep learning with 3d data.
+- [Auto-sklearn](https://automl.github.io/auto-sklearn/) - Auto-sklearn is an automated machine learning toolkit that helps find the best machine learning pipeline for your dataset.
+- [Ludwig](https://ludwig.ai/) - Ludwig is a declarative machine learning framework that makes it easy to build and train models without writing code.
 
 ### Data Analysis
 
@@ -174,6 +181,8 @@ If you're looking for AI tools that don't fit into any of the above categories, 
 - [GPT-3](https://openai.com/blog/openai-api/) - GPT-3 is an AI-powered language model developed by OpenAI. It can generate human-like text, answer questions, and even write code.
 - [BERT](https://huggingface.co/blog/bert-101) - BERT is a language model developed by Google AI. It is trained on a massive dataset of text and code, and can be used for a variety of tasks, including natural language understanding, question answering, and text classification.
 - [LLama 2](https://ai.meta.com/resources/models-and-libraries/llama/) - LLama 2 models are a collection of pretrained and fine-tuned large language models developed and released by Meta AI . These models are built upon the success of LLama 1 and provide significant improvements, including a larger scale and more extensive context.
+- [Claude](https://anthropic.ai/claude/) - Claude is an AI assistant developed by Anthropic that excels at analysis, writing, and coding tasks.
+- [PaLM 2](https://ai.google/discover/palm2) - PaLM 2 is Google's next-generation language model with improved multilingual, reasoning, and coding capabilities.
 
 ### Generative Models
 
