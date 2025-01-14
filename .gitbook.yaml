@@ -1,0 +1,15 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  productivity/: ./docs/productivity/README.md
+  creativity/: ./docs/creativity/README.md
+  communication/: ./docs/communication/README.md
+  data-science/: ./docs/data-science/README.md
+  nlp/: ./docs/nlp/README.md
+  computer-vision/: ./docs/computer-vision/README.md
+  robotics/: ./docs/robotics/README.md
+  miscellaneous/: ./docs/miscellaneous/README.md
