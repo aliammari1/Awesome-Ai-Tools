@@ -1,190 +1,374 @@
-# Awesome-Ai-Tools
+# 🚀 Awesome AI Tools
 
-This repo contains AI tools that will help you achieve your goals. The tools are categorized into different sections based on their functionality.
+<div align="center">
+  <img src="https://img.shields.io/github/stars/aliammari1/Awesome-Ai-Tools?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/aliammari1/Awesome-Ai-Tools?style=for-the-badge&logo=github&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/aliammari1/Awesome-Ai-Tools?style=for-the-badge&logo=github&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/aliammari1/Awesome-Ai-Tools?style=for-the-badge&logo=github&color=green" alt="License">
+</div>
 
-## Contents
+<div align="center">
+  <h3>🤖 A curated collection of cutting-edge AI tools to supercharge your productivity and creativity</h3>
+  <p><em>Discover, explore, and leverage the power of artificial intelligence</em></p>
+  
+  <a href="https://alis-organization-72.gitbook.io/awesome-ai-tools/">📚 Documentation</a> •
+  <a href="#-contributing">🤝 Contributing</a> •
+  <a href="#-license">📄 License</a>
+</div>
 
-- [Awesome-Ai-Tools](#awesome-ai-tools)
-  - [Contents](#contents)
-  - [Productivity](#productivity)
-    - [Time Management](#time-management)
-    - [Task Management](#task-management)
-    - [Email Management](#email-management)
-  - [Creativity](#creativity)
-    - [Art](#art)
-    - [Music](#music)
-    - [Writing](#writing)
-  - [Communication](#communication)
-    - [Writing](#writing-1)
-    - [Personality Analysis](#personality-analysis)
-    - [Translation](#translation)
-  - [Data Science](#data-science)
-    - [Machine Learning](#machine-learning)
-    - [Data Analysis](#data-analysis)
-    - [Data Visualization](#data-visualization)
-  - [Natural Language Processing](#natural-language-processing)
-    - [Text Classification](#text-classification)
-    - [Named Entity Recognition](#named-entity-recognition)
-  - [Computer Vision](#computer-vision)
-    - [Image Classification](#image-classification)
-    - [Object Detection](#object-detection)
-  - [Robotics](#robotics)
-    - [Robot Simulation](#robot-simulation)
-    - [Robot Control](#robot-control)
-  - [Miscellaneous](#miscellaneous)
-    - [Language Models](#language-models)
-    - [Generative Models](#generative-models)
+---
 
-## Productivity
+## 📋 Table of Contents
 
-If you're looking to boost your productivity, there are a number of AI tools that can help. 
+- [🏆 Top Picks](#-top-picks)
+- [💼 Productivity](#-productivity)
+- [🎨 Creativity](#-creativity)
+- [💬 Communication](#-communication)
+- [📊 Data Science](#-data-science)
+- [🧠 Natural Language Processing](#-natural-language-processing)
+- [👁️ Computer Vision](#️-computer-vision)
+- [🤖 Robotics](#-robotics)
+- [💻 Code Generation](#-code-generation)
+- [🎥 Video & Media](#-video--media)
+- [🔍 AI Search](#-ai-search)
+- [🌐 Miscellaneous](#-miscellaneous)
 
-### Time Management
+---
 
-- [RescueTime](https://www.rescuetime.com/) - RescueTime is an AI-powered time tracking tool that helps you understand how you're spending your time on your computer. It can help you identify areas where you're wasting time and make adjustments to your workflow to be more productive.
-- [Focus@Will](https://www.focusatwill.com/) - Focus@Will is an AI-powered music service that helps you stay focused and productive while you work. It uses neuroscience to create music that is scientifically optimized to help you concentrate.
-- [Clockify](https://clockify.me) - Clockify is an AI-powered time tracking tool that helps you track your time across different projects and tasks. It can help you identify areas where you're spending too much time and make adjustments to your workflow to be more productive.
-- [Trello](https://trello.com) - Trello is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
-- [Motion](https://www.usemotion.com/) - Motion is an AI-powered calendar and task management tool that automatically schedules your tasks and meetings for optimal productivity.
-- [Reclaim.ai](https://reclaim.ai/) - Reclaim is an intelligent calendar assistant that helps you protect your time by automatically scheduling meetings and tasks.
+## 🏆 Top Picks
 
-### Task Management
+> **Must-try AI tools that are game-changers in their respective domains**
 
-- [Todoist](https://todoist.com/) - Todoist is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even suggest tasks based on your previous activity.
-- [Asana](https://asana.com) - Asana is an AI-powered task management tool that helps you stay organized and on top of your to-do list. It can help you prioritize tasks, set deadlines, and even collaborate with others on projects.
-- [Notion](https://www.notion.so) - Notion is an AI-powered productivity tool that can help you manage tasks, take notes, and collaborate with others on projects. It can also be used to create wikis, databases, and other types of content.
-- [Taskade](https://taskade.com) - Taskade is an AI-powered productivity tool that can manage tasks and notes for individuals and teams.
-- [ClickUp](https://clickup.com/) - ClickUp is an AI-enhanced project management tool that helps teams organize work with automated task distributions and smart notifications.
-- [Monday.com](https://monday.com/) - Monday.com uses AI to streamline workflow management and automate routine tasks.
+| Tool | Category | Type | Description |
+|------|----------|------|-------------|
+| 🤖 **ChatGPT** | Language Model | 🆓/💰 | Revolutionary conversational AI by OpenAI |
+| 🎨 **Midjourney** | Art Generation | 💰 | Create stunning AI-generated artwork |
+| ⚡ **GitHub Copilot** | Code Generation | 💰 | AI pair programmer for developers |
+| 📝 **Notion AI** | Productivity | 💰 | Smart writing and organization assistant |
+| 🎵 **AIVA** | Music | 💰 | AI music composition for creators |
 
-### Email Management
+---
 
-- [Boomerang](https://www.boomeranggmail.com/) - Boomerang is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you schedule emails to be sent later, remind you to follow up on emails, and even suggest responses to emails.
-- [SaneBox](https://www.sanebox.com) - SaneBox is an AI-powered email management tool that helps you manage your inbox more efficiently. It can help you prioritize emails, unsubscribe from unwanted emails, and even snooze emails to be dealt with later.
-- [Mailstrom](https://mailstrom.co) - Mailstrom is an AI-powered email management tool that helps you clean up your inbox. It can help you quickly identify and delete unwanted emails, and even unsubscribe from newsletters and other types of email subscriptions.
+## 💼 Productivity
 
-## Creativity
+*Boost your efficiency with AI-powered productivity tools*
 
-If you're looking to get more creative, there are a number of AI tools that can help. 
+### ⏰ Time Management
 
-### Art
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🔄 **[RescueTime](https://www.rescuetime.com/)** | 🆓/💰 | Automatic time tracking, productivity scoring | Time awareness & optimization |
+| 🎵 **[Focus@Will](https://www.focusatwill.com/)** | 💰 | Neuroscience-based focus music | Deep work sessions |
+| ⏱️ **[Clockify](https://clockify.me)** | 🆓/💰 | Project time tracking, reporting | Team productivity tracking |
+| 🗓️ **[Motion](https://www.usemotion.com/)** | 💰 | AI calendar scheduling, task automation | Calendar optimization |
+| 🤖 **[Reclaim.ai](https://reclaim.ai/)** | 🆓/💰 | Intelligent calendar protection | Meeting management |
 
-- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is an AI-powered tool that allows you to create unique digital art by combining different images and styles.
-- [Runway ML](https://runwayml.com/) - Runway is an AI-powered tool that allows users to edit and generate videos using natural language descriptions.
-- [Prisma](https://prisma-ai.com/) - Prisma is an AI-powered tool that allows you to transform your photos into works of art using neural networks.
+### ✅ Task Management
 
-### Music
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 📋 **[Todoist](https://todoist.com/)** | 🆓/💰 | Natural language scheduling, AI suggestions | Personal task organization |
+| 📊 **[Asana](https://asana.com)** | 🆓/💰 | AI-powered project insights | Team collaboration |
+| 📚 **[Notion](https://www.notion.so)** | 🆓/💰 | AI writing assistant, databases | All-in-one workspace |
+| 🎯 **[Taskade](https://taskade.com)** | 🆓/💰 | AI workflow automation | Team productivity |
+| 🖱️ **[ClickUp](https://clickup.com/)** | 🆓/💰 | AI task automation, smart views | Project management |
+| 📅 **[Monday.com](https://monday.com/)** | 💰 | Workflow automation, AI insights | Enterprise teams |
 
-- [AIVA](https://www.aiva.ai/) - AIVA is an AI-powered music composition tool that can help you create original music for your projects.
+### 📧 Email Management
 
-### Writing
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🪃 **[Boomerang](https://www.boomeranggmail.com/)** | 🆓/💰 | Email scheduling, AI writing assistant | Email productivity |
+| 📥 **[SaneBox](https://www.sanebox.com)** | 💰 | AI email filtering, prioritization | Inbox organization |
+| 🌪️ **[Mailstrom](https://mailstrom.co)** | 💰 | Bulk email cleanup, unsubscribe | Email decluttering |
 
-- [monica](https://monica.im/) - Monica is a chrome extension powered by ChatGPT API. It is designed to be your personal AI assistant for effortless chatting and copywriting.
-- [CopyAI](https://www.copy.ai/) - CopyAI is an AI-powered writing assistant that can help you generate high-quality marketing copy, product descriptions, and more.
-- [Grammarly](https://www.grammarly.com/) - Grammarly is an AI-powered writing assistant that helps you catch grammar and spelling errors in your writing. It can also suggest improvements to your writing style to help you communicate more effectively.
-- [Jasper](https://www.jasper.ai/) - Jasper is an AI writing assistant that helps create marketing copy, blog posts, and social media content.
-- [Rytr](https://rytr.me/) - Rytr is an AI writing tool that helps generate content in different tones and styles.
+---
 
-## Communication
+## 🎨 Creativity
 
-If you're looking to improve your communication skills, there are a number of AI tools that can help.
+*Unleash your creative potential with AI-powered tools*
 
-### Writing
+### 🖼️ Art & Design
 
-- [Linguix](https://linguix.com/) - Linguix is an AI-powered writing assistant that can help you improve your writing skills. It can catch grammar and spelling errors, suggest improvements to your writing style, and even help you avoid plagiarism.
-- [Hemingway Editor](http://www.hemingwayapp.com/) - Hemingway Editor is an AI-powered writing tool that helps you simplify your writing and make it more readable. It can help you identify complex sentences, passive voice, and other issues that can make your writing difficult to understand.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🧬 **[Artbreeder](https://www.artbreeder.com/)** | 🆓/💰 | Image blending, collaborative creation | Concept art, portraits |
+| 🎬 **[Runway ML](https://runwayml.com/)** | 🆓/💰 | Video editing, AI effects | Video content creation |
+| 🎭 **[Prisma](https://prisma-ai.com/)** | 🆓/💰 | Artistic photo filters | Photo enhancement |
+| 🌟 **[DALL-E 2](https://openai.com/dall-e-2/)** | 💰 | Text-to-image generation | Creative visualization |
+| 🎨 **[Canva AI](https://www.canva.com/)** | 🆓/💰 | AI design suggestions, Magic Write | Quick design creation |
 
-### Personality Analysis
+### 🎵 Music & Audio
 
-- [Crystal](https://www.crystalknows.com/) - Crystal is an AI-powered tool that helps you understand the personality of the people you're communicating with. It can provide insights into their communication style and suggest ways to communicate more effectively with them.
-- [IBM Watson Personality Insights](https://www.ibm.com/cloud/watson-personality-insights) - IBM Watson Personality Insights is a tool that uses natural language processing and machine learning algorithms to analyze text and provide insights into the personality traits of the author.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🎼 **[AIVA](https://www.aiva.ai/)** | 🆓/💰 | AI music composition, multiple genres | Original soundtracks |
+| 🎤 **[Murf](https://murf.ai/)** | 💰 | AI voice generation, multiple accents | Voiceovers, podcasts |
+| 🔊 **[ElevenLabs](https://elevenlabs.io/)** | 🆓/💰 | Voice cloning, speech synthesis | Voice generation |
+| 🎧 **[Adobe Audition AI](https://www.adobe.com/products/audition.html)** | 💰 | Audio enhancement, noise reduction | Audio editing |
 
-### Translation
+### ✍️ Writing
 
-- [DeepL](https://www.deepl.com/translator) - DeepL is an AI-powered translation tool that provides high-quality translations in multiple languages. It uses neural network algorithms to provide more accurate translations than traditional translation tools.
-- [Google Translate](https://translate.google.com/) - Google Translate is a free online translation tool that uses machine learning algorithms to provide translations in over 100 languages.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 💬 **[Monica](https://monica.im/)** | 🆓/💰 | ChatGPT browser extension | Quick AI assistance |
+| 📝 **[Copy.ai](https://www.copy.ai/)** | 🆓/💰 | Marketing copy, content generation | Marketing content |
+| ✅ **[Grammarly](https://www.grammarly.com/)** | 🆓/💰 | Grammar checking, tone suggestions | Writing improvement |
+| 🚀 **[Jasper](https://www.jasper.ai/)** | 💰 | Long-form content, marketing copy | Content marketing |
+| 📖 **[Rytr](https://rytr.me/)** | 🆓/💰 | Multiple content types, tone options | Quick content creation |
 
-## Data Science
+---
 
-If you're working with data, there are a number of AI tools that can help you analyze and make sense of it.
+## 💬 Communication
 
-### Machine Learning
+*Enhance your communication with AI-powered tools*
 
-- [DataRobot](https://www.datarobot.com/) - DataRobot is an AI-powered platform that helps you build and deploy machine learning models. It can help you automate the process of building models and make predictions based on your data.
-- [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open-source machine learning framework developed by Google. It can help you build and train machine learning models for a variety of applications.
-- [PyTorch](https://pytorch.org/) - PyTorch is another open-source machine learning framework that is popular among researchers and developers. It is known for its ease of use and flexibility.
-- [H2O.ai](https://www.h2o.ai/) - H2O.ai is an open-source machine learning platform that allows you to build and deploy machine learning models at scale.
-- [PyTorch3d](https://pytorch3d.org/) - Pytorch 3d is an open-source library for deep learning with 3d data.
-- [Auto-sklearn](https://automl.github.io/auto-sklearn/) - Auto-sklearn is an automated machine learning toolkit that helps find the best machine learning pipeline for your dataset.
-- [Ludwig](https://ludwig.ai/) - Ludwig is a declarative machine learning framework that makes it easy to build and train models without writing code.
+### 📝 Writing Enhancement
 
-### Data Analysis
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🔍 **[Linguix](https://linguix.com/)** | 🆓/💰 | Grammar checking, style improvements | Professional writing |
+| 📖 **[Hemingway Editor](http://www.hemingwayapp.com/)** | 🆓/💰 | Readability analysis, simplification | Clear, concise writing |
+| ✨ **[QuillBot](https://quillbot.com/)** | 🆓/💰 | Paraphrasing, summarization | Content rewriting |
 
-- [Pandas](https://pandas.pydata.org/) - Pandas is an open-source data analysis library for Python. It can help you manipulate and analyze data in a variety of formats, including CSV, Excel, and SQL databases.
-- [RapidMiner](https://rapidminer.com/) - RapidMiner is an AI-powered data science platform that allows you to build and deploy predictive models without writing any code.
-- [Apache Spark](https://spark.apache.org/) - Apache Spark is an open-source big data processing framework that can help you analyze large datasets in a distributed computing environment.
+### 🧑‍🤝‍🧑 Personality Analysis
 
-### Data Visualization
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 💎 **[Crystal](https://www.crystalknows.com/)** | 💰 | Communication style analysis | Sales, networking |
+| 🧠 **[IBM Watson Personality Insights](https://www.ibm.com/cloud/watson-personality-insights)** | 💰 | Personality trait analysis | Market research |
 
-- [Tableau](https://www.tableau.com/) - Tableau is a data visualization tool that uses AI to help you explore and understand your data. It can help you identify patterns and trends in your data that might not be immediately obvious.
-- [Plotly](https://plotly.com/) - Plotly is an open-source data visualization library for Python. It can help you create interactive charts and graphs that can be embedded in web pages and other applications.
-- [D3.js](https://d3js.org/) - D3.js is a JavaScript library for data visualization that allows you to create dynamic and interactive visualizations using web standards like HTML, CSS, and SVG.
+### 🌍 Translation
 
-## Natural Language Processing
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🔄 **[DeepL](https://www.deepl.com/translator)** | 🆓/💰 | High-quality neural translation | Professional translation |
+| 🌐 **[Google Translate](https://translate.google.com/)** | 🆓 | 100+ languages, real-time translation | Quick translations |
 
-If you're interested in natural language processing, there are a number of AI tools that can help you get started.
+---
 
-### Text Classification
+## 📊 Data Science
 
-- [TextBlob](https://textblob.readthedocs.io/en/dev/) - TextBlob is an open-source library for processing textual data in Python. It can help you perform tasks like sentiment analysis, part-of-speech tagging, and text classification.
-- [NLTK](https://www.nltk.org/) - NLTK (Natural Language Toolkit) is another open-source library for natural language processing in Python. It can help you perform tasks like tokenization, stemming, and named entity recognition.
-- [Amazon Comprehend](https://aws.amazon.com/comprehend/) - Amazon Comprehend is a natural language processing service that uses machine learning to analyze text and provide insights into the content and sentiment of the text.
+*Powerful AI tools for data analysis and machine learning*
 
-### Named Entity Recognition
+### 🤖 Machine Learning
 
-- [spaCy](https://spacy.io/) - spaCy is an open-source library for advanced natural language processing in Python. It can help you build applications that can understand and analyze human language. One of its key features is named entity recognition, which can identify and classify entities like people, organizations, and locations.
-- [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - Google Cloud Natural Language API is a natural language processing service that can analyze text and provide insights into the sentiment, entities, and syntax of the text.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🏭 **[DataRobot](https://www.datarobot.com/)** | 💰 | Automated ML, model deployment | Enterprise ML |
+| 🧠 **[TensorFlow](https://www.tensorflow.org/)** | 🆓 | Deep learning framework | ML development |
+| 🔥 **[PyTorch](https://pytorch.org/)** | 🆓 | Research-focused ML framework | AI research |
+| 💧 **[H2O.ai](https://www.h2o.ai/)** | 🆓/💰 | AutoML platform | Scalable ML |
+| 🎯 **[Auto-sklearn](https://automl.github.io/auto-sklearn/)** | 🆓 | Automated ML pipeline optimization | Beginner-friendly ML |
+| 👑 **[Ludwig](https://ludwig.ai/)** | 🆓 | Declarative ML, no-code training | ML without coding |
 
-## Computer Vision
+### 📈 Data Analysis
 
-If you're interested in computer vision, there are a number of AI tools that can help you get started.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🐼 **[Pandas](https://pandas.pydata.org/)** | 🆓 | Data manipulation, analysis | Python data analysis |
+| ⚡ **[RapidMiner](https://rapidminer.com/)** | 🆓/💰 | Visual data science platform | No-code analytics |
+| ✨ **[Apache Spark](https://spark.apache.org/)** | 🆓 | Big data processing | Large-scale analytics |
 
-### Image Classification
+### 📊 Data Visualization
 
-- [Clarifai](https://www.clarifai.com/) - Clarifai is an AI-powered image recognition tool that can help you classify images based on their content. It can recognize objects, scenes, and even specific concepts like emotions and colors.
-- [Google Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API is a computer vision service that can analyze images and provide insights into the content of the images, including objects, faces, and text.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 📊 **[Tableau](https://www.tableau.com/)** | 💰 | Interactive dashboards, AI insights | Business intelligence |
+| 📈 **[Plotly](https://plotly.com/)** | 🆓/💰 | Interactive visualizations | Web-based charts |
+| 🎨 **[D3.js](https://d3js.org/)** | 🆓 | Custom web visualizations | Interactive web graphics |
 
-### Object Detection
+---
 
-- [YOLO](https://pjreddie.com/darknet/yolo/) - YOLO (You Only Look Once) is an open-source object detection system that can detect objects in real-time video streams. It is known for its speed and accuracy.
-- [Amazon Rekognition](https://aws.amazon.com/rekognition/) - Amazon Rekognition is a computer vision service that can analyze images and videos and provide insights into the content of the media, including objects, faces, and text.
+## 🧠 Natural Language Processing
 
-## Robotics
+*Advanced text processing and understanding tools*
 
-If you're interested in robotics, there are a number of AI tools that can help you get started.
+### 📝 Text Classification
 
-### Robot Simulation
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 💭 **[TextBlob](https://textblob.readthedocs.io/en/dev/)** | 🆓 | Sentiment analysis, text processing | Simple NLP tasks |
+| 🔧 **[NLTK](https://www.nltk.org/)** | 🆓 | Comprehensive NLP toolkit | NLP research & education |
+| ☁️ **[Amazon Comprehend](https://aws.amazon.com/comprehend/)** | 💰 | Managed NLP service | Enterprise text analytics |
 
-- [Gazebo](http://gazebosim.org/) - Gazebo is an open-source robot simulation tool that allows you to simulate robots in a virtual environment. It can help you test and debug your robot control algorithms before deploying them on a physical robot.
-- [Webots](https://cyberbotics.com/) - Webots is another open-source robot simulation tool that allows you to simulate robots in a virtual environment. It supports a wide range of robots and sensors, and can be used for both research and education.
+### 🏷️ Named Entity Recognition
 
-### Robot Control
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🚀 **[spaCy](https://spacy.io/)** | 🆓 | Industrial-strength NLP | Production NLP applications |
+| 🌐 **[Google Cloud Natural Language API](https://cloud.google.com/natural-language/)** | 💰 | Entity recognition, sentiment analysis | Cloud-based NLP |
 
-- [ROS](https://www.ros.org/) - ROS (Robot Operating System) is an open-source framework for building robotics software. It can help you build and control robots using a variety of programming languages.
+---
 
-## Miscellaneous
+## 👁️ Computer Vision
 
-If you're looking for AI tools that don't fit into any of the above categories, here are a few to check out:
+*AI tools for image and video analysis*
 
-### Language Models
+### 🖼️ Image Classification
 
-- [GPT-3](https://openai.com/blog/openai-api/) - GPT-3 is an AI-powered language model developed by OpenAI. It can generate human-like text, answer questions, and even write code.
-- [BERT](https://huggingface.co/blog/bert-101) - BERT is a language model developed by Google AI. It is trained on a massive dataset of text and code, and can be used for a variety of tasks, including natural language understanding, question answering, and text classification.
-- [LLama 2](https://ai.meta.com/resources/models-and-libraries/llama/) - LLama 2 models are a collection of pretrained and fine-tuned large language models developed and released by Meta AI . These models are built upon the success of LLama 1 and provide significant improvements, including a larger scale and more extensive context.
-- [Claude](https://anthropic.ai/claude/) - Claude is an AI assistant developed by Anthropic that excels at analysis, writing, and coding tasks.
-- [PaLM 2](https://ai.google/discover/palm2) - PaLM 2 is Google's next-generation language model with improved multilingual, reasoning, and coding capabilities.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 👁️ **[Clarifai](https://www.clarifai.com/)** | 🆓/💰 | Image recognition, custom models | Visual content analysis |
+| 🌐 **[Google Cloud Vision API](https://cloud.google.com/vision/)** | 💰 | OCR, object detection | Enterprise image analysis |
+| 🤖 **[OpenCV](https://opencv.org/)** | 🆓 | Computer vision library | Image processing development |
 
-### Generative Models
+### 🎯 Object Detection
 
-- [StyleGAN](https://github.com/NVlabs/stylegan) - StyleGAN is an AI-powered generative model that can create high-quality images of faces, animals, and other objects. It is known for its ability to create realistic and diverse images.
-- [Generative Pre-trained Transformer 3 (GPT-3)](https://openai.com/blog/openai-api/) - GPT-3 is an AI-powered language model developed by OpenAI. It can generate human-like text, answer questions, and even write code.
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| ⚡ **[YOLO](https://pjreddie.com/darknet/yolo/)** | 🆓 | Real-time object detection | Video surveillance |
+| 📸 **[Amazon Rekognition](https://aws.amazon.com/rekognition/)** | 💰 | Face detection, content moderation | Media analysis |
+
+---
+
+## 🤖 Robotics
+
+*AI tools for robotics development and simulation*
+
+### 🎮 Robot Simulation
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🏗️ **[Gazebo](http://gazebosim.org/)** | 🆓 | 3D robot simulation | Robot testing |
+| 🌐 **[Webots](https://cyberbotics.com/)** | 🆓/💰 | Cross-platform robot simulation | Educational robotics |
+
+### 🎛️ Robot Control
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🔧 **[ROS](https://www.ros.org/)** | 🆓 | Robot Operating System | Robot software development |
+
+---
+
+## 💻 Code Generation
+
+*AI-powered coding assistants and tools*
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🤖 **[GitHub Copilot](https://github.com/features/copilot)** | 💰 | Code completion, generation | General programming |
+| 🔄 **[Tabnine](https://www.tabnine.com/)** | 🆓/💰 | AI code completion | Multiple IDEs |
+| ⚡ **[Replit Ghostwriter](https://replit.com/)** | 🆓/💰 | Code generation, explanation | Online coding |
+| 🧠 **[CodeT5](https://github.com/salesforce/CodeT5)** | 🆓 | Code understanding, generation | Research & development |
+| 🚀 **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** | 🆓/💰 | Real-time code suggestions | AWS development |
+
+---
+
+## 🎥 Video & Media
+
+*AI tools for video creation and editing*
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🎬 **[Runway ML](https://runwayml.com/)** | 🆓/💰 | Video generation, AI effects | Creative video editing |
+| 🎭 **[Synthesia](https://www.synthesia.io/)** | 💰 | AI avatar videos | Corporate training |
+| 📽️ **[Pictory](https://pictory.ai/)** | 💰 | Text-to-video conversion | Marketing videos |
+| ✂️ **[Descript](https://www.descript.com/)** | 🆓/💰 | Audio/video editing via text | Podcast editing |
+
+---
+
+## 🔍 AI Search
+
+*Next-generation search engines powered by AI*
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🔍 **[Perplexity](https://www.perplexity.ai/)** | 🆓/💰 | AI-powered search with sources | Research & fact-checking |
+| 🌐 **[You.com](https://you.com/)** | 🆓/💰 | AI search with personalization | General web search |
+| 💻 **[Phind](https://www.phind.com/)** | 🆓/💰 | Developer-focused AI search | Programming questions |
+
+---
+
+## 🌐 Miscellaneous
+
+*Cutting-edge AI tools and language models*
+
+### 🤖 Language Models
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🧠 **[GPT-4](https://openai.com/gpt-4)** | 💰 | Advanced reasoning, multimodal | Complex tasks |
+| 💎 **[Claude 3](https://anthropic.com/claude)** | 🆓/💰 | Constitutional AI, safety-focused | Analysis & writing |
+| 🌟 **[Gemini Pro](https://ai.google/discover/gemini/)** | 🆓/💰 | Google's multimodal AI | Integration with Google services |
+| 🦙 **[Llama 2](https://ai.meta.com/llama/)** | 🆓 | Open-source, commercial use | Self-hosted solutions |
+| 🔥 **[Mixtral 8x7B](https://mistral.ai/)** | 🆓 | High-performance open model | Cost-effective AI |
+
+### 🎯 Specialized AI
+
+| Tool | Type | Features | Best For |
+|------|------|----------|----------|
+| 🎨 **[StyleGAN](https://github.com/NVlabs/stylegan)** | 🆓 | High-quality image generation | Research & art |
+| 🤖 **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | 🆓 | Autonomous AI agent | Task automation |
+| 🔗 **[LangChain](https://langchain.com/)** | 🆓/💰 | LLM application framework | AI app development |
+
+---
+
+## 🚀 Getting Started
+
+### 🆓 Free Tools to Try First
+1. **ChatGPT** - Start with conversational AI
+2. **Google Colab** - Experiment with ML models
+3. **Hugging Face** - Explore pre-trained models
+4. **GitHub Copilot** - Free for students
+5. **Canva AI** - Create designs effortlessly
+
+### 💡 Pro Tips
+- 🎯 Start with your specific use case
+- 📚 Read documentation and tutorials
+- 🤝 Join AI communities and forums
+- 🔄 Experiment with different tools
+- 📈 Track your productivity improvements
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+1. 🍴 **Fork** the repository
+2. 🌟 **Star** if you find it useful
+3. 🐛 **Report** broken links or outdated information
+4. ➕ **Add** new AI tools with proper descriptions
+5. 💡 **Suggest** improvements or new categories
+
+### 📝 Contribution Guidelines
+- Ensure tools are AI-powered or AI-enhanced
+- Include proper descriptions and pricing info
+- Add appropriate emojis and formatting
+- Verify all links are working
+- Follow the existing structure
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliammari1&repo=Awesome-Ai-Tools&show_icons=true&theme=radical" alt="Repository Stats">
+</div>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 Support
+
+If this repository helped you, please:
+- ⭐ **Star** the repository
+- 🐦 **Share** on social media
+- 💬 **Spread the word** to fellow AI enthusiasts
+
+---
+
+<div align="center">
+  <h3>🚀 Ready to supercharge your workflow with AI?</h3>
+  <p><em>Start exploring these amazing tools today!</em></p>
+  
+  **[📚 View Documentation](https://alis-organization-72.gitbook.io/awesome-ai-tools/) | [🌟 Star this repo](https://github.com/aliammari1/Awesome-Ai-Tools) | [🐛 Report Issues](https://github.com/aliammari1/Awesome-Ai-Tools/issues)**
+  
+  <sub>Last updated: June 2025 | Made with ❤️ by [Ali Ammari](https://github.com/aliammari1)</sub>
+</div>
