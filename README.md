@@ -132,6 +132,8 @@
 - [Wordtune](https://www.wordtune.com/) - AI writing companion. 🆓/💰
 - [Writer](https://writer.com/) - AI writing platform for teams. 💰
 - [Anyword](https://anyword.com/) - AI copywriting with performance prediction. 💰
+- [Serplux](https://serplux.com/) - AI writing tools for content creation. 🆓/💰
+- 
 
 ### 📝 Content Creation
 
