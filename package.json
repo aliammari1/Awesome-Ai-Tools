@@ -1,0 +1,15 @@
+{
+    "name": "awesome-ai-tools-gitbook-updater",
+    "version": "1.0.0",
+    "description": "Automatically update GitBook documentation from README",
+    "scripts": {
+        "update-gitbook": "node .github/scripts/update-gitbook.js"
+    },
+    "dependencies": {
+        "js-yaml": "^4.1.0",
+        "markdown-it": "^14.0.0"
+    },
+    "devDependencies": {},
+    "author": "Ali Ammari",
+    "license": "MIT"
+}

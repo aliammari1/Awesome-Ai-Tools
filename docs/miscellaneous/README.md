@@ -1,11 +1,11 @@
-# Miscellaneous AI Tools
+# Miscellaneous
 
-Additional AI tools that don't fit other categories:
+AI tools for miscellaneous:
 
-- **Language Models**: Large language models and text generators
-- **Generative Models**: AI systems for creating content
+- **AI Infrastructure & MLOps**: Tools for ai infrastructure & mlops
+- **AI Agents & Automation**: Tools for ai agents & automation
 
 ## In This Section
 
-{% page-ref page="language-models.md" %}
-{% page-ref page="generative-models.md" %}
+{% page-ref page="ai-infrastructure-mlops.md" %}
+{% page-ref page="ai-agents-automation.md" %}

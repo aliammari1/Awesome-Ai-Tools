@@ -1,0 +1,50 @@
+name: Update GitBook Documentation
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'README.md' ]
+  pull_request:
+    branches: [ main ]
+    paths: [ 'README.md' ]
+
+jobs:
+  update-gitbook:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: |
+        if [ -f package.json ]; then
+          npm install
+        else
+          npm install js-yaml markdown-it
+        fi
+
+    - name: Run GitBook update script
+      run: node .github/scripts/update-gitbook.js
+
+    - name: Commit and push changes
+      if: github.event_name == 'push'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/ SUMMARY.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update GitBook documentation from README"
+          git push
+        fi

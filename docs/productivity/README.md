@@ -1,13 +1,11 @@
-# Productivity Tools
+# Productivity
 
-AI tools to help boost your productivity and efficiency:
+AI tools for productivity:
 
-- **Time Management**: Tools for tracking and optimizing your time usage
-- **Task Management**: AI-powered task and project management solutions
-- **Email Management**: Smart email organization and automation tools
+- **Time Management & Scheduling**: Tools for time management & scheduling
+- **Task & Project Management**: Tools for task & project management
 
 ## In This Section
 
-{% page-ref page="time-management.md" %}
-{% page-ref page="task-management.md" %}
-{% page-ref page="email-management.md" %}
+{% page-ref page="time-management-scheduling.md" %}
+{% page-ref page="task-project-management.md" %}
