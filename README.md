@@ -20,13 +20,12 @@
 
 ## Contents
 
-- [🏆 Top Picks](#-top-picks)
 - [💼 Productivity](#-productivity)
 - [🎨 Creativity & Design](#-creativity--design)
 - [💬 Communication & Writing](#-communication--writing)
 - [📊 Data Science & Analytics](#-data-science--analytics)
 - [🧠 Natural Language Processing](#-natural-language-processing)
-- [👁️ Computer Vision](#-computer-vision)
+- [👁️ Computer Vision](#️-computer-vision)
 - [🎵 Audio & Music](#-audio--music)
 - [🎥 Video & Media](#-video--media)
 - [💻 Code Generation & Development](#-code-generation--development)
@@ -36,23 +35,8 @@
 - [🏢 Business & Marketing](#-business--marketing)
 - [🎮 Gaming & Entertainment](#-gaming--entertainment)
 - [⚡ No-Code/Low-Code AI](#-no-codelow-code-ai)
-- [🛡️ AI Safety & Ethics](#-ai-safety--ethics)
+- [🛡️ AI Safety & Ethics](#️-ai-safety--ethics)
 - [🌐 Miscellaneous](#-miscellaneous)
-
----
-
-## 🏆 Top Picks
-
-> **Must-try AI tools that are game-changers in their respective domains**
-
-- [ChatGPT](https://chat.openai.com/) - Revolutionary conversational AI by OpenAI. 🆓/💰
-- [Midjourney](https://www.midjourney.com/) - Create stunning AI-generated artwork. 💰
-- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer for developers. 💰
-- [Notion AI](https://www.notion.so/product/ai) - Smart writing and organization assistant. 💰
-- [Claude](https://claude.ai/) - Constitutional AI assistant by Anthropic. 🆓/💰
-- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search with sources. 🆓/💰
-- [DALL-E 3](https://openai.com/dall-e-3) - Advanced text-to-image generation. 💰
-- [Runway ML](https://runwayml.com/) - AI-powered video editing and generation. 🆓/💰
 
 ---
 
@@ -133,14 +117,12 @@
 - [Writer](https://writer.com/) - AI writing platform for teams. 💰
 - [Anyword](https://anyword.com/) - AI copywriting with performance prediction. 💰
 - [Serplux](https://serplux.com/) - AI writing tools for content creation. 🆓/💰
--
 
 ### 📝 Content Creation
 
 - [Notion AI](https://www.notion.so/product/ai) - AI writing within Notion workspace. 💰
 - [Lex](https://lex.page/) - AI-powered word processor. 🆓/💰
 - [Sudowrite](https://www.sudowrite.com/) - AI writing partner for creative writing. 💰
-- [Novel AI](https://novelai.net/) - AI storytelling and writing. 💰
 - [Hemingway Editor](http://www.hemingwayapp.com/) - Readability-focused writing tool. 🆓/💰
 - [Gamma](https://gamma.app/) - AI-powered presentation creation. 🆓/💰
 
@@ -169,7 +151,6 @@
 ### 📈 Data Analysis & Visualization
 
 - [Tableau](https://www.tableau.com/) - Data visualization with AI insights. 💰
-- [Power BI](https://powerbi.microsoft.com/) - Business analytics by Microsoft. 💰
 - [Plotly](https://plotly.com/) - Interactive data visualization. 🆓/💰
 - [Observable](https://observablehq.com/) - Collaborative data visualization. 🆓/💰
 - [Grafana](https://grafana.com/) - Monitoring and observability platform. 🆓/💰
@@ -370,7 +351,6 @@
 
 ### 💼 Business Intelligence
 
-- [Tableau](https://www.tableau.com/) - Data visualization platform. 💰
 - [Power BI](https://powerbi.microsoft.com/) - Business analytics tool. 💰
 - [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) - Self-service BI platform. 💰
 - [Sisense](https://www.sisense.com/) - AI-driven analytics. 💰
@@ -469,11 +449,11 @@
 
 ### 🆓 Free Tools to Try First
 
-- [ChatGPT](https://chat.openai.com/) - Start with conversational AI.
-- [Google Colab](https://colab.research.google.com/) - Experiment with ML models.
-- [Hugging Face](https://huggingface.co/) - Explore pre-trained models.
-- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search.
-- [Canva AI](https://www.canva.com/) - Create designs effortlessly.
+- [OpenAI Playground](https://platform.openai.com/playground) - Experiment with GPT models directly.
+- [Google AI Studio](https://makersuite.google.com/) - Test Google's Gemini models.
+- [Hugging Face Spaces](https://huggingface.co/spaces) - Try pre-trained models instantly.
+- [Replicate](https://replicate.com/) - Run open-source models in the cloud.
+- [Gradio](https://gradio.app/) - Create ML demos quickly.
 
 ### 💡 Pro Tips
 
@@ -489,7 +469,7 @@
 - [Coursera AI Courses](https://www.coursera.org/browse/data-science/machine-learning) - Online AI and ML courses.
 - [edX AI Programs](https://www.edx.org/learn/artificial-intelligence) - University-level AI programs.
 - [Towards Data Science](https://towardsdatascience.com/) - Medium publication for data science.
-- [Papers with Code](https://paperswithcode.com/) - Latest ML research with code implementations.
+- [ML Paper Implementations](https://github.com/lucidrains) - Research paper implementations.
 
 ---
 

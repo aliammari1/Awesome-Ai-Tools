@@ -19,11 +19,6 @@ Content Creation tools for communication & writing.
 - **Description**: AI writing partner for creative writing.
 - **Pricing**: 💰
 
-### Novel AI
-- **Website**: [https://novelai.net/](https://novelai.net/)
-- **Description**: AI storytelling and writing.
-- **Pricing**: 💰
-
 ### Hemingway Editor
 - **Website**: [http://www.hemingwayapp.com/](http://www.hemingwayapp.com/)
 - **Description**: Readability-focused writing tool.

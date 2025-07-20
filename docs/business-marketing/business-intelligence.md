@@ -4,11 +4,6 @@ Business Intelligence tools for business & marketing.
 
 ## Available Tools
 
-### Tableau
-- **Website**: [https://www.tableau.com/](https://www.tableau.com/)
-- **Description**: Data visualization platform.
-- **Pricing**: 💰
-
 ### Power BI
 - **Website**: [https://powerbi.microsoft.com/](https://powerbi.microsoft.com/)
 - **Description**: Business analytics tool.

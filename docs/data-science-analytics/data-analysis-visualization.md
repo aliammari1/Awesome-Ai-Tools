@@ -9,11 +9,6 @@ Data Analysis & Visualization tools for data science & analytics.
 - **Description**: Data visualization with AI insights.
 - **Pricing**: 💰
 
-### Power BI
-- **Website**: [https://powerbi.microsoft.com/](https://powerbi.microsoft.com/)
-- **Description**: Business analytics by Microsoft.
-- **Pricing**: 💰
-
 ### Plotly
 - **Website**: [https://plotly.com/](https://plotly.com/)
 - **Description**: Interactive data visualization.

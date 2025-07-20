@@ -3,8 +3,6 @@
 * [Introduction](README.md)
 
 ## Sections
-* [Top Picks](docs/top-picks/README.md)
-
 * [Productivity](docs/productivity/README.md)
   * [Time Management & Scheduling](docs/productivity/time-management-scheduling.md)
   * [Task & Project Management](docs/productivity/task-project-management.md)
