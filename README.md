@@ -133,7 +133,7 @@
 - [Writer](https://writer.com/) - AI writing platform for teams. 💰
 - [Anyword](https://anyword.com/) - AI copywriting with performance prediction. 💰
 - [Serplux](https://serplux.com/) - AI writing tools for content creation. 🆓/💰
-- 
+-
 
 ### 📝 Content Creation
 
@@ -469,11 +469,11 @@
 
 ### 🆓 Free Tools to Try First
 
-1. **[ChatGPT](https://chat.openai.com/)** - Start with conversational AI
-2. **[Google Colab](https://colab.research.google.com/)** - Experiment with ML models
-3. **[Hugging Face](https://huggingface.co/)** - Explore pre-trained models
-4. **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search
-5. **[Canva AI](https://www.canva.com/)** - Create designs effortlessly
+- [ChatGPT](https://chat.openai.com/) - Start with conversational AI.
+- [Google Colab](https://colab.research.google.com/) - Experiment with ML models.
+- [Hugging Face](https://huggingface.co/) - Explore pre-trained models.
+- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search.
+- [Canva AI](https://www.canva.com/) - Create designs effortlessly.
 
 ### 💡 Pro Tips
 
@@ -485,11 +485,11 @@
 
 ### 📖 Learning Resources
 
-- [Fast.ai](https://www.fast.ai/) - Practical deep learning course
-- [Coursera AI Courses](https://www.coursera.org/browse/data-science/machine-learning)
-- [edX AI Programs](https://www.edx.org/learn/artificial-intelligence)
-- [Towards Data Science](https://towardsdatascience.com/) - Medium publication
-- [Papers with Code](https://paperswithcode.com/) - Latest ML research
+- [Fast.ai](https://www.fast.ai/) - Practical deep learning course.
+- [Coursera AI Courses](https://www.coursera.org/browse/data-science/machine-learning) - Online AI and ML courses.
+- [edX AI Programs](https://www.edx.org/learn/artificial-intelligence) - University-level AI programs.
+- [Towards Data Science](https://towardsdatascience.com/) - Medium publication for data science.
+- [Papers with Code](https://paperswithcode.com/) - Latest ML research with code implementations.
 
 ---
 
@@ -544,7 +544,7 @@ If this repository helped you, please:
   <h3>🚀 Ready to supercharge your workflow with AI?</h3>
   <p><em>Start exploring these amazing tools today!</em></p>
   
-  **[📚 View Documentation](https://alis-organization-72.gitbook.io/awesome-ai-tools/) | [🌟 Star this repo](https://github.com/aliammari1/Awesome-Ai-Tools) | [🐛 Report Issues](https://github.com/aliammari1/Awesome-Ai-Tools/issues)**
+  [📚 View Documentation](https://alis-organization-72.gitbook.io/awesome-ai-tools/) | [🌟 Star this repo](https://github.com/aliammari1/Awesome-Ai-Tools) | [🐛 Report Issues](https://github.com/aliammari1/Awesome-Ai-Tools/issues)
   
   <sub>Last updated: December 2024 | Made with ❤️ by [Ali Ammari](https://github.com/aliammari1)</sub>
 </div>
