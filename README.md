@@ -117,6 +117,8 @@
 - [Writer](https://writer.com/) - AI writing platform for teams. 💰
 - [Anyword](https://anyword.com/) - AI copywriting with performance prediction. 💰
 - [Serplux](https://serplux.com/) - AI writing tools for content creation. 🆓/💰
+- [AITextChecker](https://www.aitextchecker.pro/) - AI content detector and checker. 🆓
+- [Detectordeia](https://www.detectordeia.org/) - AI content detector and humanizer for Spanish users. 🆓
 
 ### 📝 Content Creation
 
